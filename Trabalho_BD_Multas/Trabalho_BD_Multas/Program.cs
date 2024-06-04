@@ -1,0 +1,16 @@
+﻿
+using Trabalho_BD_Multas;
+
+
+// GET JSON DATA
+
+var lst = ReadFile.GetData();
+
+//  PERSIST --> JSON TO SQLSERVER
+
+// FILE GENERATOR FOR SQL
+
+// READ AND PERSIST --> SQL TO MONGO
+
+// FILE GENERATOR FOR MONGO DB
+
